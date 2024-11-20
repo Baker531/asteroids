@@ -1,3 +1,3 @@
-[submodule "html5game"]
-	path = html5game
+[submodule "BuiltHTML"]
+	path = BuiltHTML
 	url = https://github.com/Baker531/BuiltHTML.git
